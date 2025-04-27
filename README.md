@@ -1,4 +1,4 @@
-# Churrascometro
+# Churrascômetro
 
 O Churrascometro é uma aplicação simples e prática para calcular a quantidade de carne, cerveja e bebidas necessárias para um churrasco, com base no número de adultos, crianças e a duração do evento. A aplicação foi desenvolvida como parte do aprendizado no **curso de Desenvolvimento Web do Programador BR**.
 
