@@ -1,0 +1,75 @@
+
+html, body {
+    font-family: "Montserrat", sans-serif;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+  }
+  
+
+  body {
+    background-color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    padding: 20px;
+  }
+  
+
+  .container {
+    background-color: #FCEC6A;
+    padding: 20px;
+    width: 100%;
+    max-width: 600px; 
+    height: 100%;
+    border-radius: 8px;
+    position: relative;
+    z-index: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center; 
+    justify-content: center;
+    text-align: center; /
+  }
+  
+
+  .container img {
+    width: 150px;
+    height: auto;
+    margin-bottom: 20px; 
+  }
+  
+  
+  h1 {
+    font-size: 2.5rem;
+    font-weight: bold;
+    margin: 0;
+    padding-bottom: 20px; 
+  }
+  
+ 
+  input, button {
+    width: 80%; 
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+  }
+
+  .botao{
+    background-color:#FFDA5B ;
+    border: none;
+    border-radius: 10px;
+  }
+  
+
+ 
+  #resultado {
+    margin-top: 20px;
+    font-size: 18px;
+    font-weight: bold;
+    text-align: left;
+  }
+  
+  
